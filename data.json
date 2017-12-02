@@ -1,0 +1,10 @@
+{
+    "events": [
+        {"id": "STARTS_CHAT", "name": "Starts Chat"},
+        {"id": "KEYWORD", "name": "Keyword"}
+    ],
+    "actions": [
+        {"id": "TextMessage", "name": "Send Text Message"},
+        {"id": "UploadImage", "name": "Send Image Message"}
+    ]
+}
